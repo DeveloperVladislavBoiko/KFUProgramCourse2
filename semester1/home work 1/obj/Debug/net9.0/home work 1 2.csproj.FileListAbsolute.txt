@@ -1,0 +1,14 @@
+/home/vladislavboiko/codeProject/home work 1 2/bin/Debug/net9.0/home work 1 2
+/home/vladislavboiko/codeProject/home work 1 2/bin/Debug/net9.0/home work 1 2.deps.json
+/home/vladislavboiko/codeProject/home work 1 2/bin/Debug/net9.0/home work 1 2.runtimeconfig.json
+/home/vladislavboiko/codeProject/home work 1 2/bin/Debug/net9.0/home work 1 2.dll
+/home/vladislavboiko/codeProject/home work 1 2/bin/Debug/net9.0/home work 1 2.pdb
+/home/vladislavboiko/codeProject/home work 1 2/obj/Debug/net9.0/home work 1 2.GeneratedMSBuildEditorConfig.editorconfig
+/home/vladislavboiko/codeProject/home work 1 2/obj/Debug/net9.0/home work 1 2.AssemblyInfoInputs.cache
+/home/vladislavboiko/codeProject/home work 1 2/obj/Debug/net9.0/home work 1 2.AssemblyInfo.cs
+/home/vladislavboiko/codeProject/home work 1 2/obj/Debug/net9.0/home work 1 2.csproj.CoreCompileInputs.cache
+/home/vladislavboiko/codeProject/home work 1 2/obj/Debug/net9.0/home work 1 2.dll
+/home/vladislavboiko/codeProject/home work 1 2/obj/Debug/net9.0/refint/home work 1 2.dll
+/home/vladislavboiko/codeProject/home work 1 2/obj/Debug/net9.0/home work 1 2.pdb
+/home/vladislavboiko/codeProject/home work 1 2/obj/Debug/net9.0/home work 1 2.genruntimeconfig.cache
+/home/vladislavboiko/codeProject/home work 1 2/obj/Debug/net9.0/ref/home work 1 2.dll
