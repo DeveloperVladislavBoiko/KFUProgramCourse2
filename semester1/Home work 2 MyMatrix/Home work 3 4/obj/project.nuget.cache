@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ToJ2aFbTGpY=",
+  "success": true,
+  "projectFilePath": "/home/vladislavboiko/RiderProjects/Home work 3 4/Home work 3 4/Home work 3 4.csproj",
+  "expectedPackageFiles": [
+    "/home/vladislavboiko/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
