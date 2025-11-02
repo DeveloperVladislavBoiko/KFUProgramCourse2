@@ -1,0 +1,14 @@
+/home/vladislavboiko/RiderProjects/Home work My Matrix/Home work My Matrix/bin/Debug/net9.0/Home work My Matrix
+/home/vladislavboiko/RiderProjects/Home work My Matrix/Home work My Matrix/bin/Debug/net9.0/Home work My Matrix.deps.json
+/home/vladislavboiko/RiderProjects/Home work My Matrix/Home work My Matrix/bin/Debug/net9.0/Home work My Matrix.runtimeconfig.json
+/home/vladislavboiko/RiderProjects/Home work My Matrix/Home work My Matrix/bin/Debug/net9.0/Home work My Matrix.dll
+/home/vladislavboiko/RiderProjects/Home work My Matrix/Home work My Matrix/bin/Debug/net9.0/Home work My Matrix.pdb
+/home/vladislavboiko/RiderProjects/Home work My Matrix/Home work My Matrix/obj/Debug/net9.0/Home work My Matrix.GeneratedMSBuildEditorConfig.editorconfig
+/home/vladislavboiko/RiderProjects/Home work My Matrix/Home work My Matrix/obj/Debug/net9.0/Home work My Matrix.AssemblyInfoInputs.cache
+/home/vladislavboiko/RiderProjects/Home work My Matrix/Home work My Matrix/obj/Debug/net9.0/Home work My Matrix.AssemblyInfo.cs
+/home/vladislavboiko/RiderProjects/Home work My Matrix/Home work My Matrix/obj/Debug/net9.0/Home work My Matrix.csproj.CoreCompileInputs.cache
+/home/vladislavboiko/RiderProjects/Home work My Matrix/Home work My Matrix/obj/Debug/net9.0/Home work My Matrix.dll
+/home/vladislavboiko/RiderProjects/Home work My Matrix/Home work My Matrix/obj/Debug/net9.0/refint/Home work My Matrix.dll
+/home/vladislavboiko/RiderProjects/Home work My Matrix/Home work My Matrix/obj/Debug/net9.0/Home work My Matrix.pdb
+/home/vladislavboiko/RiderProjects/Home work My Matrix/Home work My Matrix/obj/Debug/net9.0/Home work My Matrix.genruntimeconfig.cache
+/home/vladislavboiko/RiderProjects/Home work My Matrix/Home work My Matrix/obj/Debug/net9.0/ref/Home work My Matrix.dll

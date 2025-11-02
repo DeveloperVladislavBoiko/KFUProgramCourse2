@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BF3GMsFSRuk=",
+  "success": true,
+  "projectFilePath": "/home/vladislavboiko/RiderProjects/Home work My Matrix/Home work My Matrix/Home work My Matrix.csproj",
+  "expectedPackageFiles": [
+    "/home/vladislavboiko/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
